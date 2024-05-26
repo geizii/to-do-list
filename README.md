@@ -24,26 +24,3 @@ A interface da To Do List foi aprimorada com estilos adicionais para proporciona
 
 Utilizei o `useState` do React para monitorar se o usuário já adicionou alguma tarefa. Se todas as tarefas forem deletadas, uma mensagem amigável "Não há tarefas cadastradas" é exibida, garantindo uma comunicação clara e eficaz com o usuário.
 
-## Como Executar o Projeto
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
-
-3. Instale as dependências:
-    ```bash
-    npm install
-    ```
-
-4. Execute a aplicação:
-    ```bash
-    npm start
-    ```
-
-A aplicação estará disponível em `http://localhost:3000`.
