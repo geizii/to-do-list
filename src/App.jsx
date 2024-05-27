@@ -3,11 +3,12 @@ import styled from 'styled-components';
 
 import TaskInput from "./components/TaskInput"
 import TaskList from "./components/TaskList"
+import landingImage from "../src/assets/img/landing.jpg"
 
 
 
 const Background = styled.div `
-  background-image: url('../src/assets/img/landing.jpg');
+  background-image: url(${landingImage});
   background-size: cover;
   background-position: center;
   height: 100%;
